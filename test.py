@@ -1,2 +1,2 @@
-print("Hola mundo main")
+print("Mundo main")
 print("Estamos en MASTER")
